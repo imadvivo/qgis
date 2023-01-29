@@ -1,0 +1,50 @@
+<data>
+    <Unites>
+        <Unit id="0" deleted="0">
+            <abr>RGT</abr>
+            <arbic_abr>RGT</arbic_abr>
+            <Nome>R&#233;giment Transmission</Nome>
+            <arbic_Nome>R&#233;giment Transmission</arbic_Nome>
+            <Region>1</Region>
+            <Secteur>Blida</Secteur>
+            <Arme>Transmission</Arme>
+            <Affiliation>AMI</Affiliation>
+            <Echelon>Section</Echelon>
+            <Position>516165165.52191</Position>
+            <Orientaion>125</Orientaion>
+            <Lieu>BLIDA</Lieu>
+            <arbic_lieu>BLIDA</arbic_lieu>
+        </Unit>
+        <Unit id="1" deleted="0">
+            <abr>BRHC</abr>
+            <arbic_abr>BRHC</arbic_abr>
+            <Nome>BRigade Transmission</Nome>
+            <arbic_Nome>BRigade Transmission</arbic_Nome>
+            <Region>2</Region>
+            <Secteur>alger</Secteur>
+            <Arme>DCT</Arme>
+            <Affiliation>ABC</Affiliation>
+            <Echelon>Brigade</Echelon>
+            <Position>0000.25155</Position>
+            <Orientaion>564</Orientaion>
+            <Lieu>Algeria</Lieu>
+            <arbic_lieu>Algeria</arbic_lieu>
+        </Unit>
+        <Unit id="2" deleted="0">
+            <abr>CNID</abr>
+            <arbic_abr>CNID</arbic_abr>
+            <Nome>center national ...</Nome>
+            <arbic_Nome>center national ...</arbic_Nome>
+            <Region>2</Region>
+            <Secteur>Oran</Secteur>
+            <Arme>Transmission</Arme>
+            <Affiliation>ABC</Affiliation>
+            <Echelon>ggg</Echelon>
+            <Position>3333333.52191</Position>
+            <Orientaion>777</Orientaion>
+            <Lieu>ORAN</Lieu>
+            <arbic_lieu>ORAN</arbic_lieu>
+        </Unit>
+    
+    <Unit id="3" deleted="0" /><Unit id="4" deleted="0" /><Unit id="5" deleted="1" /><Unit id="6" deleted="1" /><Unit id="7" deleted="1" /><Unit id="8" deleted="1" /></Unites>
+</data>
